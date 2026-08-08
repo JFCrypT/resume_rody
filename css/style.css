@@ -271,7 +271,8 @@ p {
    Perfil profesional
    ========================================================== */
 
-section[aria-labelledby="perfil"] > p {
+section[aria-labelledby="perfil"] > p,
+section[aria-labelledby="profile"] > p {
     text-align: justify;
     text-justify: inter-word;
     hyphens: auto;
