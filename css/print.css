@@ -34,7 +34,7 @@ body {
      * 6 mm arriba + 11 mm abajo = 17 mm totales.
      * Se conserva exactamente la misma altura útil anterior.
      */
-    padding: 1mm 12mm 3mm;
+    padding: 1mm 12mm 1mm;
 
     overflow: hidden;
 
